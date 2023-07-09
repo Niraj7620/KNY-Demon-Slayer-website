@@ -1,0 +1,81 @@
+body{
+  background-color: black;
+}
+
+.demon-text{
+  margin-left: 400px;
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+}
+
+.demon-div{
+  display: flex;
+}
+.demon-img{
+  width: 300px;
+  height: 420px;
+  margin-left: 110px;
+  margin-top: 60px;
+  border-radius: 5px;
+}
+.kokushibo-name{
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(10deg, rgb(250, 57, 57)10%,gray 40%, rgb(138, 0, 143) 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.doma-name{
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(10deg, rgb(168, 0, 0)15%,rgb(251, 255, 0) 30%, rgb(0, 225, 255) 50%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.akaza-name{
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(10deg, rgb(0, 217, 255)10%,gray 30%, rgb(138, 0, 143) 70%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.hantengu-name{
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(30deg, rgb(117, 117, 117)10%,rgb(251, 255, 24) 30%, rgb(179, 0, 185) 50%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gyokko-name{
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(10deg, rgb(14, 117, 252)0%,rgb(192, 192, 192) 30%, rgb(9, 255, 0) 70%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.g-d-name{
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  background: linear-gradient(10deg, rgb(124, 0, 0)10%,rgb(192, 192, 192) 40%, rgb(12, 143, 0) 90%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
